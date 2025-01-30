@@ -1,5 +1,4 @@
-- name: Springer Proceedings in Mathematics & Statistics
-  homepage: "https://www.springer.com/series/10533"
-  picture: "../assets/proceedings/proms.jpg"
-  call : "To be announced during the conference"
+- name: IOP Conference Series
+  homepage: "https://ioppublishing.org/publications/conference-series/"
+  picture: "../assets/proceedings/iop.jpg"
  
