@@ -1,0 +1,27 @@
+- title: General Chair
+  column: 1
+  members:
+  - name: Eleni Tzanaki
+    org: "University of Crete (Greece)"
+    homepage: "https://sites.google.com/site/tzanakel/home"
+- title: Program Committee Chairs
+  column: 1
+  members:
+  - name:  Giorgos Kapetanakis
+    org: University of Thessaly (Greece)
+    homepage: "http://gkapet.users.uth.gr/"
+  - name:  Zafeirakis Zafeirakopoulos
+    org: University of Geneva (Switzerland)
+    homepage: "https://zafeirakopoulos.github.io"
+- title: Scientific Committee
+  column: 1
+  members:
+  - name: ACA Working Group
+    homepage: "https://math.unm.edu/~aca/ACA/Organizing/WG.html"
+- title: Local Organization Committee
+  column: 1
+  members:
+  - name:  Theodoulos Garefalakis
+    org: University of Crete  (Greece)
+    homepage:  "http://users.math.uoc.gr/~tgaref/"
+  

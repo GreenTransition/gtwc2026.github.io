@@ -1,0 +1,6 @@
+- name: University of Crete
+  homepage: "https://uoc.gr"
+  picture: "../assets/sponsors/uoc.png"
+- name: Crete Regional Administratiion
+  homepage: "https://www.crete.gov.gr/"
+  picture: "../assets/sponsors/crete.png"

@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<h2>SS{{ page.AA }} - {{  page.title }}</h2>
+<h3> link to the <a href="{{ page.webpage}}">session's webpage</a></h3> 
+<br><br>
+{{ page.content }}
+
+<br><br>
+
+<h3>Session organizers</h3>
+
+  <table class="table table-striped">
+  <tbody>
+    {% for organizer in page.organizers %}  
+      <tr>
+        <td style="text-align: left"><strong><a href="{{ organizer.homepage }}">{{ organizer.name }}</a></strong> ({{ organizer.org }})</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+ 
+
+<br><br>
+
+<h3>Timetable</h3>
+<table class="table table-striped">
+  <tbody>
+    {% for block in page.blocks %}  
+      <tr>
+        <td style="text-align: left">{{ block}}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+ 
+<h3>Speakers</h3>
+<table class="table table-striped">
+  <tbody>
+    {% for speaker in page.speakers %}  
+      <tr>
+        <td style="text-align: left"><strong><a href="{{ organizer.homepage }}">{{ organizer.name }}</a></strong> ({{ organizer.org }})</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+ 
+ 

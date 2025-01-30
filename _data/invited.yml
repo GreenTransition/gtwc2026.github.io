@@ -1,0 +1,20 @@
+- name: Gianira Nicoletta Alfarano 
+  org: "Rennes University (France)"
+  homepage: "https://user.math.uzh.ch/alfarano/"
+  title: TBA 
+  picture: "../assets/invited/Alfarano.jpg"
+- name: Ioannis Emiris
+  org: "ATHENA RC and University of Athens (Greece)"
+  homepage: "https://www.athenarc.gr/en/people/527"
+  title: TBA 
+  picture: "../assets/invited/Emiris.png"
+- name: Daniel Panario
+  org: "Carleton University (Canada)"
+  homepage: "https://carleton.ca/math/people/daniel-panario/"
+  title: TBA 
+  picture: "../assets/invited/Panario.jpg"
+- name: Veronika Pillwein
+  org: "University of Crete (Greece)"
+  homepage: "https://risc.jku.at/m/veronika-pillwein/"
+  title: TBA 
+  picture: "../assets/invited/Pillwein.jpg"

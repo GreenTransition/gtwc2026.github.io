@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{{ page.content }}
+
+<br><br>
+
+{% assign sorted_sessions = site.sessions | sort: 'AA' %}
+
+<table class="table table-striped">
+  <tbody>
+    {% for session in sorted_sessions %}   
+      <tr>
+        <td style="text-align: center">SS{{ session.AA}}</td>
+        <td style="text-align: left"><strong><a href="{{ session.url }}">{{ session.title }}</a></strong></td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
