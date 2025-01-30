@@ -1,27 +1,90 @@
-- title: General Chair
+- title: Scientific Committee Chairs
   column: 1
   members:
-  - name: Eleni Tzanaki
-    org: "University of Crete (Greece)"
-    homepage: "https://sites.google.com/site/tzanakel/home"
-- title: Program Committee Chairs
+  - name: Kyriakos Bourikas
+    org: "Hellenic Open University (Greece)"
+    homepage: "https://scholar.google.gr/citations?user=0j9IKpoAAAAJ&hl=el"
+  - name:  Sotiris Lycourghiotis
+    org: Hellenic Open University (Greece)
+    homepage: "https://scholar.google.gr/citations?user=q8nCd_4AAAAJ&hl=el"
+- title: Organising Chair
   column: 1
   members:
-  - name:  Giorgos Kapetanakis
-    org: University of Thessaly (Greece)
-    homepage: "http://gkapet.users.uth.gr/"
+  - name:  Sotiris Lycourghiotis
+    org: Hellenic Open University (Greece)
+    homepage: "https://scholar.google.gr/citations?user=q8nCd_4AAAAJ&hl=el"
+- title: Organizing Committee
+  column: 1
+  members:
+  - name: Ekavi Isari 
+    org: Hellenic Open University (Greece)
+    homepage: "https://www.researchgate.net/profile/Ekavi-Isari"
+  - name: Eleana Kordouli
+    org: "University of Patras (Greece)"
+    homepage: "https://scholar.google.gr/citations?user=fwzkGYgAAAAJ&hl=el"
+  - name: Kalimeris Konstantinos
+    org: "Academy of Athens (Greece)"
+    homepage: "https://www.researchgate.net/profile/Konstantinos-Kalimeris-2"
+  - name:  Sotiris Lycourghiotis
+    org: Hellenic Open University (Greece)
+    homepage: "https://scholar.google.gr/citations?user=q8nCd_4AAAAJ&hl=el"
+  - name:  Theodor Panagiotakopoulos
+    org: Hellenic Open University (Greece)
+    homepage: "https://scholar.google.com/citations?hl=el&user=Q7JOvYwAAAAJ"
   - name:  Zafeirakis Zafeirakopoulos
     org: University of Geneva (Switzerland)
-    homepage: "https://zafeirakopoulos.github.io"
+    homepage: "https://scholar.google.gr/citations?user=NEeNVssAAAAJ&hl=el&oi=sra"
+  - name:  John Zafeiropoulos
+    org: Hellenic Open University (Greece)
+    homepage: "https://www.researchgate.net/profile/John-Zafeiropoulos-2"
+
+
 - title: Scientific Committee
+  column: 2
+  members:
+  - name: Georgios Balomenos
+    org: "Hellenic Open University (Greece)"
+    homepage: "https://scholar.google.com/citations?hl=el&user=CytBYKgAAAAJ"
+  - name: Kyriakos Bourikas
+    org: "Hellenic Open University (Greece)"
+    homepage: "https://scholar.google.gr/citations?user=0j9IKpoAAAAJ&hl=el"
+  - name: Ioannis K. Kalavrouziotis
+    org: "Hellenic Open University (Greece)"
+    homepage: "https://scholar.google.com/citations?user=m2HEHX0AAAAJ&hl=el&oi=sra"
+  - name: Hrissi K. Karapanagioti
+    org:  University of Patras (Greece)
+    homepage: https://scholar.google.com/citations?user=LzIWZvQAAAAJ&hl=el
+  - name: Petros Kokkinos
+    org: "Hellenic Open University (Greece)"
+    homepage: "https://scholar.google.gr/citations?user=Jhy-X_UAAAAJ&hl=el&oi=sra"
+  - name: Ioannis Konstantinou
+    org: "University of Ioannina (Greece)"
+    homepage: "https://www.researchgate.net/profile/Ioannis-Konstantinou"
+  - name: Konstantinos Komnitsas
+    org: "Technical University of Crete (Greece)"
+    homepage: "https://www.tuc.gr/en/index.php?id=5643&tx_tuclabspersonnel_pi3%5Bpersonid%5D=306"
+  - name: Eleana Kordouli
+    org: "University of Patras (Greece)"
+    homepage: "https://scholar.google.gr/citations?user=fwzkGYgAAAAJ&hl=el"
+  - name: Christos Kordulis
+    org: "University of Patras (Greece)"
+    homepage: "https://scholar.google.gr/citations?user=utv3sh8AAAAJ&hl=el"
+  - name: George Kyzas
+    org: "Democritus University of Thrace (Greece)"
+    homepage: "https://scholar.google.gr/citations?user=Lxa5x90AAAAJ&hl=el&oi=sra"
+  - name: Dimitra Lambropoulou
+    org: "Aristotle University of Thessaloniki (Greece)"
+    homepage: "https://scholar.google.gr/citations?user=xngg0asAAAAJ&hl=el"
+  - name: Jacek Makinia
+    org: "Politechnika Gdańska (Poland)"
+    homepage: "https://scholar.google.co.uk/citations?user=t_DuWdkAAAAJ&hl=pl"
+  - name: Heidrun Steinmetz
+    org: "Universität Stuttgart (Germany)"
+    homepage: "https://www.researchgate.net/profile/Heidrun-Steinmetz"
+
+- title: Webmaster
   column: 1
   members:
-  - name: ACA Working Group
-    homepage: "https://math.unm.edu/~aca/ACA/Organizing/WG.html"
-- title: Local Organization Committee
-  column: 1
-  members:
-  - name:  Theodoulos Garefalakis
-    org: University of Crete  (Greece)
-    homepage:  "http://users.math.uoc.gr/~tgaref/"
-  
+  - name: Zafeirakis Zafeirakopoulos
+    org: University if Geneva
+    homepage: "https://zafeirakopoulos.info"

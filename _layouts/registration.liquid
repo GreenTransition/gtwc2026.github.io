@@ -1,0 +1,27 @@
+---
+layout: default
+---
+ 
+  <div class="clearfix">{{ content }}</div>
+
+  <br><br>
+  <h2>Registration fees</h2>
+     <table class="table table-striped">
+        <thead>
+        <tr>
+          <th scope="col"></th>
+          <th scope="col">Early</th>
+          <th scope="col">Late</th>
+        </tr>
+      </thead>
+        <tbody>
+          {% for regtype in site.data.registration.fees %}     
+            <tr>
+              <td style="text-align: left">{{ regtype.type }}</td><td style="text-align: left">{{  regtype.early }}</td><td style="text-align: left">{{  regtype.late }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>      
+     The deadline for early registration is {{  site.data.registration.early_deadline }}.
+  </article>
+</div>

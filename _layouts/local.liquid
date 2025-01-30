@@ -1,0 +1,31 @@
+---
+layout: default
+---
+ 
+  {{ content }} 
+
+    <div class="container">
+        <div class="row row-cols-2">
+         {% for hotel in site.data.hotels %}
+          <div class="card-item col">
+            <div class="card">
+              <div class="row g-0">
+                <div class="card-img col-md-6">
+                  <img src="{{ hotel.picture }}" style="width: 150px; height: 150px; object-fit: contain;">
+                </div>
+                <div class="col-md-6">
+                  <div class="card-body">
+                    <h4 class="card-title"><a href="{{ hotel.website }}"> {{ hotel.name }}</a> </h4>
+                    {% for room in hotel.rooms %}
+                       <h6 class="card-text">{{ room.price }} € for {{ room.name }} <br></h6>      
+                     {% endfor %} 
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          {% endfor %} 
+        </div>
+    </div>
+
+ 

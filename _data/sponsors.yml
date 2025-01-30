@@ -1,6 +1,9 @@
-- name: University of Crete
-  homepage: "https://uoc.gr"
-  picture: "../assets/sponsors/uoc.png"
-- name: Crete Regional Administratiion
-  homepage: "https://www.crete.gov.gr/"
-  picture: "../assets/sponsors/crete.png"
+- name: IOP Science
+  picture: "../assets/sponsors/iop.svg"
+  homepage: https://https://iopscience.iop.org/
+- name: Hellenic Open University
+  picture: "../assets/sponsors/hou_logo.png"
+  homepage: https://www.eap.gr/en/
+- name: Nowness
+  picture: ../assets/sponsors/nowness.png
+  #homepage: https://www.sanskritassociation.org/

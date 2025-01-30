@@ -1,0 +1,36 @@
+early_deadline: 1 June 2026
+fees:
+  - type: Online regular (up to 1 paper)
+    early: 200
+    late: 250
+    currency: euros
+  - type: Online regular (up to 2 papers)
+    early: 250
+    late: 300
+    currency: euros
+  - type: Online student 
+    early: 150
+    late: 200
+    currency: euros
+  - type: Online registration  
+    early: 100
+    late: 120
+    currency: euros
+  -
+  -
+  - type: On-site regular (up to 1 paper)
+    early: 300
+    late: 350
+    currency: euros
+  - type: On-site regular (up to 2 papers)
+    early: 350
+    late: 400
+    currency: euros
+  - type: On-site student 
+    early: 200
+    late: 250
+    currency: euros
+  - type: On-site registration  
+    early: 150
+    late: 170
+    currency: euros

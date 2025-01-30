@@ -1,0 +1,23 @@
+
+  <h2>Invited Speakers</h2>
+    <div class="container">
+        <div class="row row-cols-2">
+         {% for speaker in site.data.invited %}
+          <div class="card-item col">
+            <div class="card">
+              <div class="row g-0">
+                <div class="card-img col-md-6">
+                  <img src="{{ speaker.picture }}" style="width: 150px; height: 150px; object-fit: contain;">
+                </div>
+                <div class="col-md-6">
+                  <div class="card-body">
+                    <h4 class="card-title"><a href="{{ speaker.homepage }}"> {{ speaker.name }}</a> </h4>
+                    <h6 class="card-text">{{ speaker.title }}</h6>      
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          {% endfor %} 
+        </div>
+    </div>
