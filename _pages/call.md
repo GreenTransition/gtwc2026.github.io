@@ -27,12 +27,12 @@ All accepted papers from the Congress will be published in the conference procee
 
 ### Important Dates AoE
 
-* Submission deadline:	25 February 2026
-* Notification of acceptance:	25 May 2026
-* Camera-ready due:	1 July 2026
-* Poster submission deadline:	1 July 2026
-* Notification of poster acceptance:	25 July 2026
-* Early registration deadline: 1 June 2026 
+* Abstract submission deadline:	28 February 2026
+* Notification of acceptance:	28 March 2026
+* Full paper submission deadline:	30 May 2026
+* Poster submission deadline:	30 June 2026
+* Early registration deadline:	1 June 2026
+
 
 ### Guide for authors
 

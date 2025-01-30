@@ -1,14 +1,10 @@
 - name: Abstract submission deadline
   date: 28 February 2026
 - name: Notification of acceptance
-  date: 28 Mars 2026
+  date: 28 March 2026
 - name: Full paper submission deadline
-  date: 31 February 2026
-- name: Notification of acceptance
-  date: 28 Mars 2026
-- name: Camera-ready due 
-  date: 1 July 2026
+  date: 30 May 2026
 - name: Poster submission deadline 
-  date: 1 July 2026
-- name: Notification of poster acceptance 
-  date: 25 July 2026
+  date: 30 June 2026
+- name: Early registration deadline 
+  date: 1 June 2026  
