@@ -1,9 +1,9 @@
-- name: IOP Science
-  picture: "../assets/sponsors/iop.svg"
-  homepage: https://https://iopscience.iop.org/
 - name: Hellenic Open University
   picture: "../assets/sponsors/hou_logo.png"
   homepage: https://www.eap.gr/en/
 - name: Nowness
   picture: ../assets/sponsors/nowness.png
-  #homepage: https://www.sanskritassociation.org/
+  homepage: https://info-nowness.github.io
+- name: IOP Science
+  picture: "../assets/sponsors/iop.svg"
+  homepage: https://https://iopscience.iop.org/

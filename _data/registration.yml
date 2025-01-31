@@ -34,3 +34,4 @@ fees:
     early: 150
     late: 170
     currency: euros
+    early_payment: "https://buy.stripe.com/test_7sI17WctR62p0bS8ww"
