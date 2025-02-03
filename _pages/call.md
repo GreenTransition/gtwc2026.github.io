@@ -6,7 +6,7 @@ nav_order: 2
 nav: true
 ---
 
-"The organizing committee and the Hellenic Open University are organizing the 1st International Green Transition Congress (GTWC), which will be held in Patras (Greece) as well as online.
+The organizing committee and the Hellenic Open University are organizing the 1st International Green Transition Congress (GTWC), which will be held in Patras (Greece) as well as online.
 
 The theme of GTWC is **“Accelerating Towards Sustainability: Innovations in Renewable Energy, Biofuels, GIS, Water Management, and Smart Green Cities”**.
 
@@ -27,11 +27,11 @@ All accepted papers from the Congress will be published by IOP and indexed by SC
 
 ### Important Dates AoE
 
-* Abstract submission deadline:	28 February 2026
-* Notification of acceptance:	28 March 2026
-* Full paper submission deadline:	30 May 2026
-* Poster submission deadline:	30 June 2026
-* Early registration deadline:	1 June 2026
+* Abstract submission deadline:	**28 February 2026**
+* Notification of acceptance:	**28 March 2026**
+* Full paper submission deadline:	**30 May 2026**
+* Poster submission deadline:	**30 June 2026**
+* Early registration deadline:	**1 June 2026**
 
 
 ### Guide for authors
@@ -42,7 +42,7 @@ All authors must follow [the ethical guidelines](https://publishingsupport.iopsc
 
 ### Review Process
  
-Abstracts and full-text reports uploaded to the conference system undergo a review procedure. Authors will be notified of the application results in three weeks. Submitted abstracts will be evaluated on the basis of abstracts/proposals. The conference system allows you to submit the full text if your abstract is accepted. Please upload the abstract of your article to the conference system and wait for the results of the evaluation. If your abstract is accepted, you can upload your full text. Your full text will then be sent to at least two reviewers for review.
+Abstracts and full-text reports uploaded to the conference system undergo a review procedure. Submitted abstracts will be evaluated on the basis of abstracts/proposals. The conference system allows you to submit the full text if your abstract is accepted. Please upload the abstract of your article to the conference system and wait for the results of the evaluation. If your abstract is accepted, you can upload your full text. Your full text will then be sent to at least two reviewers for review.
  
 ### The conference has a double-blind peer-review process
  
