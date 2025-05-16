@@ -8,12 +8,12 @@ fees:
   - type: Online regular 
     early: 250
     late: 300
-    early_payment: "https://buy.stripe.com/fZe15Tcam4Qh1HO8wC"
+    early_payment: "https://buy.stripe.com/cNidRa3pvece2z47zue7m07"
     currency: euros
   - type: Student 
     early: 150
     late: 200
-    early_payment: "https://buy.stripe.com/7sIdSF5LY3Md4U05kp"
+    early_payment: "https://buy.stripe.com/fZu00k9NTd8aflQaLGe7m08"
     currency: euros
 
  
