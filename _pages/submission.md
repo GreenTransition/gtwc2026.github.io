@@ -8,7 +8,7 @@ nav: true
 
 ## Paper Submission
 
-**All papers and posters must be submitted through [easychair]().**
+** The submission process will be announced by October 2025. If you have any questions please contact Dr. Sotiris Lycourghiotis at slykour@eap.gr **
 
 
 ### Important Dates AoE
