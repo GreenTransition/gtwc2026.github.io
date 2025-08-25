@@ -18,7 +18,8 @@ layout: default
           {% for regtype in site.data.registration.fees %}     
              <a href={{  regtype.early_payment }}><tr>
              <td style="text-align: left">  {{ regtype.type }}</td><td style="text-align: left">{{  regtype.early }}€ </td><td style="text-align: left">{{  regtype.late }}€</td>
-            </tr></a>
+            </tr>
+            <a/>
           {% endfor %}
         </tbody>
       </table>      
