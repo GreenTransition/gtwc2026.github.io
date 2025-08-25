@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: submission
 title: Submission
 permalink: submission
 nav_order: 4
