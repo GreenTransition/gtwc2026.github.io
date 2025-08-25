@@ -26,7 +26,7 @@ Further information on partner hotels as well as the conference’s visits and a
 ![image info](../assets/local/Patras2.jpg){: width="100%" }
 
 ![image info](../assets/local/eap1.jpg){: width="100%" }
-height="250"
+
 
 Hotels
 ------
