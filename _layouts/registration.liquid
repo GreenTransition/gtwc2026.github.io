@@ -17,7 +17,7 @@ layout: default
         <tbody>
           {% for regtype in site.data.registration.fees %}     
             <tr>
-              <a href={{  regtype.early_payment }}><td style="text-align: left"> {{ regtype.type }}</td><td style="text-align: left">{{  regtype.early }}€ </td><td style="text-align: left">{{  regtype.late }}€</td></a>
+             <td style="text-align: left">  <a href={{  regtype.early_payment }}> {{ regtype.type }}</td><td style="text-align: left">{{  regtype.early }}€ </td><td style="text-align: left">{{  regtype.late }}€</a></td>
             </tr>
           {% endfor %}
         </tbody>
