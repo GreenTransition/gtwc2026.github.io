@@ -8,7 +8,7 @@ nav: true
 
 ## Paper Submission
 
-** The submission process will be announced by October 2025. If you have any questions please contact Dr. Sotiris Lycourghiotis at slykour@eap.gr **
+** The submission of papers and abstracts is dones by email to Dr. Sotiris Lycourghiotis at slykour@eap.gr **
 
 
 ### Important Dates AoE
