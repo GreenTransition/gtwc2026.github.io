@@ -8,7 +8,7 @@ nav: true
 
 ## Paper Submission
 
-** The submission of papers and abstracts is dones by email to Dr. Sotiris Lycourghiotis at slykour@eap.gr **
+** The submission of papers and abstracts is by email to Dr. Sotiris Lycourghiotis at slykour@eap.gr **
 
 
 ### Important Dates AoE
