@@ -6,7 +6,7 @@ nav_order: 5
 nav: true
 ---
 
-Registration for GTWC 2026 is [done through this form](https://forms.gle/h6bsSTBbMKDnocAd9). 
+Registration for GTWC 2027 is [done through this form](https://forms.gle/h6bsSTBbMKDnocAd9). 
 
 Note that in order to complete the registration, you have to fill in the above form and pay the registration fee. 
 
