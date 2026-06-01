@@ -34,6 +34,12 @@ All accepted papers from the Congress will be indexed by SCOPUS and the Web of S
 * Early registration deadline:	**1 June 2027**
 
 
+### Guide for authors
+
+Please follow the [guide for authors](https://publishingsupport.iopscience.iop.org/author-guidelines-for-conference-proceedings/) provided by IOP Science.
+
+All authors must follow [the ethical guidelines](https://publishingsupport.iopscience.iop.org/ethical-policy-journals/).
+
 ### Review Process
  
 Abstracts and full-text reports uploaded to the conference system undergo a review procedure. Submitted abstracts will be evaluated on the basis of abstracts/proposals. The conference system allows you to submit the full text if your abstract is accepted. Please upload the abstract of your article to the conference system and wait for the results of the evaluation. If your abstract is accepted, you can upload your full text. Your full text will then be sent to at least two reviewers for review.
