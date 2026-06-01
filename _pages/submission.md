@@ -20,4 +20,9 @@ nav: true
 * Early registration deadline:	1 June 2027
 
 
+### Guide for authors
+
+Please follow the [guide for authors](https://publishingsupport.iopscience.iop.org/author-guidelines-for-conference-proceedings/) provided by IOP Science.
+
+All authors must follow [the ethical guidelines](https://publishingsupport.iopscience.iop.org/ethical-policy-journals/).
 
