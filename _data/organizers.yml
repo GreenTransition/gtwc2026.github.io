@@ -43,6 +43,9 @@
 - title: Scientific Committee
   column: 2
   members:
+  - name:  Sotiris Lycourghiotis
+    org: Hellenic Open University (Greece)
+    homepage: "https://scholar.google.gr/citations?user=q8nCd_4AAAAJ&hl=el"
   - name: Georgios Balomenos
     org: "Hellenic Open University (Greece)"
     homepage: "https://scholar.google.com/citations?hl=el&user=CytBYKgAAAAJ"
@@ -67,6 +70,9 @@
   - name: Denise-Penelope N. Kontoni
     org: "University of Peloponnese  (Greece)"
     homepage: "https://scholar.google.gr/citations?user=BZcMZJsAAAAJ&hl=el"
+  - name: Ioannis M. Dokas
+    org: "Democritus University of Thrace (Greece)"
+    homepage: "https://scholar.google.com/citations?user=zwOx7yYAAAAJ&hl=en"
   - name: Eleana Kordouli
     org: "University of Patras (Greece)"
     homepage: "https://scholar.google.gr/citations?user=fwzkGYgAAAAJ&hl=el"
